@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Manisha 👋</h1>
+<h1 align="center">Hi there I'm Manisha Saini 👋</h1>
 <h3 align="center">Passionate IT Professional & Artificial Intelligence, let's connect.</h3>
 
 
