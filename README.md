@@ -9,12 +9,13 @@
 
 - 📫 How to reach me **ms29200015@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+ <p align="center">
+<br/>
 <a href="https://www.facebook.com/saini.manisha.908"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://twitter.com/itsmahi2915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmahi2915" height="30" width="40" /></a>
-<a href="http://www.linkedin.com/in/manisha-saini-a69a34256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmahi2915" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
+<a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="http://www.linkedin.com/in/manisha-saini-a69a34256"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:ms29200015@gmail.com?subject=Manisha%20Saini"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://github.com/itsmahi2915"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
