@@ -12,7 +12,7 @@
 <a href="https://github.com/itsmahi2915"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmahi2915&label=Profile%20views&color=0e75b6&style=flat" alt="itsmahi2915" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmahi2915&label=Profile%20views&color=0e75b6&style=flat" alt="itsmahi2915" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmahi2915" alt="smritiranjan65" /></a> </p>
 
